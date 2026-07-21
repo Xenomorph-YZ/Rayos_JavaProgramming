@@ -1,4 +1,4 @@
-public class Lesson7Activity2 {
+public class Activity6 {
     public static void main(String[] args) {
 
         String customerName = "Jace";
