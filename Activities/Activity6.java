@@ -1,3 +1,4 @@
+package Activities;
 public class Activity6 {
     public static void main(String[] args) {
 
