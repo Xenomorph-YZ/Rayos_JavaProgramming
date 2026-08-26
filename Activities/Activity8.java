@@ -28,5 +28,6 @@ public class Activity8 {
     else {
         System.out.println("nigga wat");
     }
+    scn.close();
     }
 }
